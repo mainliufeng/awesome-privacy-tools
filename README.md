@@ -228,6 +228,7 @@ Receive SMS verification codes without exposing your real phone number — the p
 - [Immich](https://immich.app/) - Self-hosted photo and video backup solution.
 - [MAT2](https://0xacab.org/jvoisin/mat2) - Metadata anonymization toolkit.
 - [PDF Metadata Remover](https://intabtools.com/pdf/pdf-metadata-remover) - Removes author, producer, and XMP metadata from PDF files by rewriting the document in the browser; the file never leaves the tab.
+- [Quick Image Kit](https://quickimagekit.com/) - Browser-based image compressor and converter that processes photos locally in the tab, so the files are never uploaded.
 - [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif) - Android app for removing EXIF metadata before sharing images.
 
 ## Self-Hosted Privacy Tools
